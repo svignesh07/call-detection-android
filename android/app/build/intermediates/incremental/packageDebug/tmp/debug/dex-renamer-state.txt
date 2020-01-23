@@ -1,0 +1,4 @@
+#Thu Jan 23 15:41:42 IST 2020
+base.0=/Users/werain/Desktop/react-native-call-detection/CallDetectionExample/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
